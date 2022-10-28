@@ -1,3 +1,6 @@
+# https://www.hackerrank.com/challenges/encryption/problem?isFullScreen=true
+# molezinha
+
 from math import sqrt, floor, ceil
 
 sinput = 'have a nice day'
